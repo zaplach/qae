@@ -9,7 +9,10 @@
 
 123
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 git commit -a
+=======
+>>>>>>> 173491aa47cd2ac9344df0aea8e1da10157f841b
 =======
 >>>>>>> 173491aa47cd2ac9344df0aea8e1da10157f841b
